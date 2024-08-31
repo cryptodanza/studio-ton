@@ -1,0 +1,68 @@
+.navbar-brand {
+	padding: 0;
+}
+.navbar-inverse .navbar-nav>li>a {
+    text-transform: uppercase;
+    letter-spacing: 0.3rem;
+}
+
+.navbar{
+	margin-bottom: 0;
+}
+
+.dropdown-menu>li>a{
+	letter-spacing: 0.2rem;
+}
+
+
+.list-unstyled li {
+	padding: 1.5rem;
+	border-bottom: 1px solid #d9534f;
+}
+
+.list-unstyled li a {
+	color: #000;
+	text-decoration: none;
+}
+
+.list-unstyled li a:hover {
+	color: #d9534f;
+}
+
+h4.panel-title a {
+	text-decoration: none;
+	font-size: 18px;
+	letter-spacing: 0.2rem;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+.panel-collapse.collapse.in {
+	box-shadow: 1px 6px 20px -5px #000;
+	transition: box-shadow 0.5s ease-in;
+}
+
+footer{
+	padding: 2rem;
+	background-color: #eee;
+	margin-top: 2rem;
+}
+
+footer a {
+	color: black;
+	transition: color 0.4s ease-in;
+	padding: 0.2rem;
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+}
+
+footer a:hover{
+	color: red;
+	text-decoration: none;
+}
+
+footer p{
+	letter-spacing: 0.2rem;
+	text-transform: uppercase;
+	padding: 0.2rem;
+}
